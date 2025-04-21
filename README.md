@@ -1,11 +1,8 @@
 # FirstToDo-List
 My first to-do list experience with JavaScript.
-# jewelry
-
 I developed this project with HTML , CSS , Java Script.
-![Image]()
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816
-b476-a88e984abefe.jpg) 
+![Image](https://github.com/user-attachments/assets/10e3142c-3f66-4909-b1c1-dead1615603a)
+
 - [Demo Project](https://mayabehroozi.github.io/FirstToDo-List/) 
 - Developed by maya behroozi
 - How to reach me : with my [instagram](https://www.instagram.com/mayacodingjourneyy) and 
